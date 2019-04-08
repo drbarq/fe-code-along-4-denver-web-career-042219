@@ -38,6 +38,7 @@ selector {
 
 .col-3 {
   /* this column will span the entire wrapper*/
+  background: #ccc;
 }
 
 p { /* select all <p> */
