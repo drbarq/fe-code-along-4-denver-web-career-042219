@@ -22,6 +22,18 @@ selector {
   background: #eee;
 }
 
+.col-1 {
+  /* this column will span one-third */
+}
+
+.col-2 {
+  /* this column will span two-thirds*/
+}
+
+.col-3 {
+  /* this column will span the entire wrapper*/
+}
+
 p { /* select all <p> */
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
   line-height: 1.5em;
